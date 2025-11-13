@@ -1,6 +1,6 @@
 # Cinnamon-Dark-Teal
 
-A simple hybrid theme for **Linux Mint Cinnamon**!
+A simple hybrid desktop theme for **Linux Mint Cinnamon**!
 
 I took the **Cinnamon** base theme (from **Linux Mint 22.2 Cinnamon**) and swapped in colors from **Mint-Y-Dark-Teal** theme (the variant included in **Linux Mint 22.2**) — just a personal experiment to see how it would look.
 
